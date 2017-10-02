@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close.svg</file>
+        <file>images/down.svg</file>
+        <file>images/full.svg</file>
+        <file>images/left.svg</file>
+        <file>images/restore.svg</file>
+        <file>images/right.svg</file>
+        <file>images/up.svg</file>
+        <file>images/perde_down.svg</file>
+        <file>images/perde_left.svg</file>
+        <file>images/perde_right.svg</file>
+        <file>images/perde_up.svg</file>
+    </qresource>
+</RCC>
